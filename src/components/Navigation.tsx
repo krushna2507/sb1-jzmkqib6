@@ -47,7 +47,7 @@ export default function Navigation() {
               Contact
             </Link>
             <a
-              href="https://drive.google.com/file/d/1zM6-d0qmG_ed8x_t-fBCy7JrcSTaiHSR/view?usp=drive_link"
+              href="https://drive.google.com/file/d/10mlgWkeHJKNDcZmR69l75VHSKT89Hv6g/view?usp=drive_link"
               download="krushna-nepate-resume.pdf"
               className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700"
             >
