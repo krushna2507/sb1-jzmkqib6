@@ -101,8 +101,8 @@ export default function Navigation() {
               Contact
             </Link>
             <a
-              href="/resume.pdf"
-              download="john-doe-resume.pdf"
+              href="https://drive.google.com/file/d/1Mh63P-WejIw5pNFEz9uKNlG17ckJANzx/view?usp=drivesdk"
+              download="krushna-nepate-resume.pdf"
               className="block px-3 py-2 text-base font-medium text-indigo-600 hover:text-indigo-700"
             >
               <div className="flex items-center">
